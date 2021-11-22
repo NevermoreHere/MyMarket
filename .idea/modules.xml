@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyMarket.iml" filepath="$PROJECT_DIR$/.idea/modules/MyMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyMarket.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyMarket.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyMarket.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyMarket.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyMarket.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyMarket.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.iml" filepath="$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/orm/MyMarket.orm.test.iml" />
+    </modules>
+  </component>
+</project>

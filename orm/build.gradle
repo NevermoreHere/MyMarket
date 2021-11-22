@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+version 'unspecified'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'mysql:mysql-connector-java:8.0.26'
+    implementation 'org.freemarker:freemarker:2.3.31'
+    implementation group: 'com.baomidou', name: 'mybatis-plus-generator', version: '3.4.1'
+    implementation group: 'com.baomidou', name: 'mybatis-plus-boot-starter', version: '3.4.1'
+    compileOnly 'org.projectlombok:lombok:1.18.16'
+    annotationProcessor "org.projectlombok:lombok:1.18.16"
+
+
+}
+
+test {
+    useJUnitPlatform()
+}

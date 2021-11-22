@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.flink:flink-shaded-asm-7:7.1-13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-shaded-asm-7/7.1-13.0/dd4de3ae4e66ff91e6ee4540630e63f39de857ee/flink-shaded-asm-7-7.1-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

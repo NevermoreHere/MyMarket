@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.flink:flink-optimizer_2.12:1.13.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-optimizer_2.12/1.13.2/79de2500cb0f6ae804739cd83a2fea9b69d5e885/flink-optimizer_2.12-1.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-optimizer_2.12/1.13.2/451f50e1bfba9a4e9bd4908beefe71f1a80270f9/flink-optimizer_2.12-1.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
